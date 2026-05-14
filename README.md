@@ -34,5 +34,19 @@ Um programa que realiza operações matemáticas básicas entre dois números in
 * Verificação de pertinência com o operador `in`.
 * Controle de fluxo com `if/elif/else` aninhados.
 
+### 3. 💱 Conversor de Moedas
+Um simulador de câmbio que realiza conversões entre Real e Dólar com taxa fixa.
+
+**Funcionalidades:**
+* **Conversão Bilateral:** Transforma Dólar em Real e vice-versa de forma dinâmica.
+* **Tratamento de Strings:** Uso de `.lower()` para garantir que o programa aceite as respostas do usuário independente do uso de letras maiúsculas.
+* **Saída Inteligente:** Implementação de uma pergunta de confirmação antes de encerrar o loop principal.
+* **Formatação Monetária:** Exibição dos resultados com duas casas decimais, respeitando o padrão financeiro.
+
+**Conceitos Praticados:**
+* Lógica booleana e operadores lógicos (`or`, `and`).
+* Manipulação de strings para melhorar a experiência do usuário (UX).
+* Fluxo de interrupção de laços com `break`.
+
 ---
 *Repositório mantido por [Almir Marcelo](https://github.com/almirmarcelo08)*
